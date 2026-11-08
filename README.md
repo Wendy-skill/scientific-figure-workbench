@@ -18,6 +18,14 @@
 
 ## 安装到 Codex
 
+推荐在 macOS / Linux 终端直接安装到个人 Skills 目录：
+
+```bash
+mkdir -p ~/.agents/skills
+git clone https://github.com/Wendy-skill/scientific-figure-workbench.git ~/.agents/skills/scientific-figure-workbench
+python -m pip install -r ~/.agents/skills/scientific-figure-workbench/requirements.txt
+```
+
 将本仓库作为整个文件夹放在以下位置之一：
 
 ```text
