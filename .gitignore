@@ -1,0 +1,10 @@
+# Generated figures/audits (can be reproduced by running the demonstration)
+examples/figure_output/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.swp
+*.tmp
