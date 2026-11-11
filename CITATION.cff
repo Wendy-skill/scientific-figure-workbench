@@ -3,9 +3,9 @@ message: "If you use this Skill, please cite it using these metadata."
 type: software
 title: "Scientific Figure Workbench"
 authors:
-  - name: "wendy.z"
+  - given-names: "wendy.z"
+    alias: "Wendy-skill"
 abstract: >-
-  A reproducible scientific plotting Skill for selecting plot types, validating
-  data, generating figures, and independently checking exported outputs.
+  A reproducible scientific plotting Skill for selecting plot types, validating data, generating figures, and independently checking exported outputs.
 repository-code: "https://github.com/Wendy-skill/scientific-figure-workbench"
 license: Apache-2.0
