@@ -81,3 +81,12 @@ python -m unittest discover -s tests -v
 ## Scope / Limitations
 
 This Skill guides reproducible scientific visualisation; it is not a statistical inference engine, clinical diagnostic model or CFD solver. Sample plots use **synthetic teaching data**. SVG text editability depends on fonts and downstream editors. Exporting data snapshots is opt-in. No causal, clinical or significance claims are made by the example.
+
+## 版权与许可 | Copyright & Licence
+
+作者 / Copyright holder: **wendy.z** ([GitHub: Wendy-skill](https://github.com/Wendy-skill)).
+
+除另有说明的第三方材料外，本仓库由 wendy.z 创作的原创内容按 Apache License 2.0 发布。该许可允许商业使用、修改与再分发；再分发须遵守许可证，包括保留版权、许可证和适用的 NOTICE 声明，并在修改文件中标明改动。Apache-2.0 不授予商标许可或背书权。完整条款见 [LICENSE](LICENSE)，作者声明见 [NOTICE](NOTICE)。`requirements.txt` 中的 Python 包是独立依赖，单独分发并受各自许可约束。
+
+Original material by `wendy.z` in this repository is licensed under Apache-2.0, except material carrying its own notice. Commercial use, modification and redistribution are permitted subject to its terms, including retaining applicable copyright, license and NOTICE notices and marking modified files. Apache-2.0 does not grant trademark or endorsement rights. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Python packages listed in `requirements.txt` are separate dependencies and remain subject to their own licenses.
+
